@@ -22,4 +22,5 @@ The Market Anomaly Detection (MAD) project is designed to act as an early warnin
 5. Analyze Results: Compare model performance and visualize key metrics in a bar chart.
 
 **Results**
+
 The system highlights patterns in market data and successfully predicts market crashes using the best-performing model, which can further be used to design effective investment strategies.
